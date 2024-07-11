@@ -1,0 +1,18 @@
+.control-row{
+
+    margin-top: 20px;
+    height: 50px;
+    margin-left: -140px;
+}
+.number-input{
+   max-width: 150px;
+
+}
+.danger-button{
+    margin-left: 180px;
+    margin-top: -80px;
+}
+.success-button{
+    height: 39px;
+    margin-top: 6px;
+}
